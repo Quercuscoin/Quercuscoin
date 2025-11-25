@@ -1,0 +1,5 @@
+#!/bin/bash
+
+num=$1
+
+for (( x=1; x<=$num; x++ )); do ./quercus-cli -generate; done

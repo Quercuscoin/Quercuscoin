@@ -1,0 +1,33 @@
+# /etc/conf.d/quercusd: config file for /etc/init.d/quercusd
+
+# Config file location
+#QUERCUSD_CONFIGFILE="/etc/quercus/quercus.conf"
+
+# What directory to write pidfile to?  (created and owned by $QUERCUSD_USER)
+#QUERCUSD_PIDDIR="/var/run/quercusd"
+
+# What filename to give the pidfile
+#QUERCUSD_PIDFILE="${QUERCUSD_PIDDIR}/quercusd.pid"
+
+# Where to write quercusd data (be mindful that the blockchain is large)
+#QUERCUSD_DATADIR="/var/lib/quercusd"
+
+# User and group to own quercusd process
+#QUERCUSD_USER="quercus"
+#QUERCUSD_GROUP="quercus"
+
+# Path to quercusd executable
+#QUERCUSD_BIN="/usr/bin/quercusd"
+
+# Nice value to run quercusd under
+#QUERCUSD_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#QUERCUSD_OPTS=""
+
+# The timeout in seconds OpenRC will wait for quercusd to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+QUERCUSD_SIGTERM_TIMEOUT=600
