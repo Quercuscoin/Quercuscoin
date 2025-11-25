@@ -1,14 +1,13 @@
 # Quercus 🔒
 
-![Quercus Logo](https://github.com/quercuscoin/blob/main/fix.png)
+![Quercus Logo](https://github.com/Quercuscoin/Quercuscoin/quercus.png)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Supply](https://img.shields.io/badge/supply-10%2C000%20-orange.svg)
 ![Algorithm](https://img.shields.io/badge/algorithm-SHA--256-blue.svg)
 ![Status](https://img.shields.io/badge/status-FIXED-red.svg)
 
-**🌐 [Website](http://quercus.org) | 🔍 [Explorer](https://explorer.quercus.org) | 📦 [Releases](https://github.com/Quercus/releases)**
+**🌐 [Website](http://quercuscoin.org) | 🔍 [Explorer](https://explorer.quercuscoin.org) | 📦 [Releases](https://github.com/Quercus/releases)**
 
 > **"Once mined at block 1, this repository will be archived. Everything is Fixed."**
 
@@ -21,13 +20,6 @@
 - [Technical Specifications](#-technical-specifications)
 - [Network](#-network)
 - [Downloads](#-downloads)
-- [Quick Start Guide](#-quick-start-guide)
-- [Ubuntu Server Setup](#️-ubuntu-server-2204-node-setup)
-- [Node Management Commands](#-node-management-commands)
-- [Mining Quercus](#️-mining-quercus)
-- [Supply Schedule](#-supply-schedule)
-- [Security Best Practices](#-security-best-practices)
-- [Troubleshooting](#-troubleshooting)
 - [FAQ](#-frequently-asked-questions)
 - [Additional Resources](#-additional-resources)
 - [Disclaimer](#️-disclaimer)
@@ -156,8 +148,8 @@ Quercus uses Bitcoin's proven codebase and SHA-256 algorithm. However, as with a
 
 - **Source Code:** [GitHub Repository](https://github.com/Quercuscoin)
 - **Releases:** [Download Page](https://github.com/Quercuscoin/releases/tag/)
-- **Block Explorer:** [explorer.quercus.org](https://explorer.quercuscoin.org)
-- **Website:** [quercus.org](http://quercuscoin.org)
+- **Block Explorer:** [explorer.quercuscoin.org](https://explorer.quercuscoin.org)
+- **Website:** [quercuscoin.org](http://quercuscoin.org)
 
 ## ⚠️ Disclaimer
 
