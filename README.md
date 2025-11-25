@@ -1,6 +1,6 @@
 # Quercus 🔒
 
-![Quercus Logo](https://github.com/Quercuscoin/Quercuscoin/main/quercus.png)
+![Quercus Logo](https://github.com/Quercuscoin/Quercuscoin/blob/main/share/pixmaps/quercus256.png)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
