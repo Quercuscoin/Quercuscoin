@@ -29,7 +29,7 @@
 
 ## 🔐 What is Quercus?
 
-Quercus is an cryptocurrency with a total supply of **52,500,000**. Built on Bitcoin's proven codebase and secured by SHA-256 mining, featuring 5 minute avg block times.  Quercus represents the ultimate experiment in digital scarcity and immutability.
+Quercus is an cryptocurrency with a total supply of **52,500,000**. Built on Bitcoin's proven codebase and secured by SHA-256 mining, featuring 5 minute avg block times.  Quercus represents the new experiment in digital scarcity and immutability.
 
 **The Quercus Concept:**
 - **1,500,000 premine at block 1** for initial distribution and development
@@ -82,32 +82,18 @@ Download from [GitHub Releases](https://github.com/Quercuscoin/releases/)
 
 #### Windows
 
-**Setup Installer (Recommended)**
-- [quercus-25.0.0-win64-setup.exe](https://github.com/Quercuscoin/releases/download/quercuscoin-25.0.0-win64-setup.exe)
-- SHA256: `2633baead034c5d6a5b036951560f5a859ca8257d8a154ce63ae3e0384009e07`
-
 **Portable Archive**
-- [quercus-25.0.0-win64.zip](https://github.com/Quercuscoin/releases/download/quercuscoin-25.0.0-win64.zip)
+- [Quercus_Win_64_v0.1.0.zip](https://github.com/Quercuscoin/Quercuscoin/releases/download/Initial_Releases/Quercus_Win_64_v0.1.0.zip)
 - SHA256: `4ad54f7d9f509321f80d7b13fecd4f355db7aa6edc82a9c533dde358f2811f97`
-
-#### macOS
-
-**Disk Image (Recommended)**
-- [quercus-25.0.0-apple-darwin-setup.dmg](https://github.com/Quercus/releases/download/quercus-25.0.0-apple-darwin-setup.dmg)
-- SHA256: `442a8409f90539d5de618ddc100249700044718c14b3cdbe394f38f870405391`
-
-**Archive (Intel)**
-- [quercus-25.0.0-x86_64-apple-darwin.tar.gz](https://github.com/Quercus/releases/download/quercus-25.0.0-x86_64-apple-darwin.tar.gz)
-- SHA256: `0af514ea233d8b58f069d3e0b7cfc4beb7f945e75cb6373e3457f5eb0db7c57d`
 
 #### Linux
 
 **x86_64 (64-bit Intel/AMD)**
-- [quercus-25.0.0-x86_64-linux-gnu.tar.gz](https://github.com/Quercus/releases/download/quercus-25.0.0-x86_64-linux-gnu.tar.gz)
+- [Quercus_Linux_v0.1.0.tgz](https://github.com/Quercuscoin/Quercuscoin/releases/download/Initial_Releases/Quercus_Linux_v0.1.0.tgz)
 - SHA256: `487afa3538250a27fda83bfd847eb9d0c21ca59b6ff0d09972c6dbd155405ca8`
 
 **ARM64 (Raspberry Pi, ARM servers)**
-- [quercus-25.0.0-aarch64-linux-gnu.tar.gz](https://github.com/Quercus/releases/download/quercus-25.0.0-aarch64-linux-gnu.tar.gz)
+- [Quercus_RaspPi_v0.1.0.tgz](https://github.com/Quercuscoin/Quercuscoin/releases/download/Initial_Releases/Quercus_RaspPi_v0.1.0.tgz)
 - SHA256: `9b71643e5d3195800148c8e8aac38577ff445258959b880d86b3cdd53898801e`
 
 #### Source Code
